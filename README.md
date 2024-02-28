@@ -5,4 +5,6 @@ Lambda to meta-learn an unchosen action value addition
 Lambda-mult to meta-learn an unchosen action value multiplication
 Temperature to meta-learn temperature in a Softmax decision policy
 
-Eac hscript simulates the meta-learning model in three environments: a stable, a volatile and an adversarial environment.
+HaS stands for Hide-and-Seek, as the adversarial context is programmed in a way that we want to test participants on.
+
+Each script simulates the meta-learning model in three environments: a stable, a volatile and an adversarial environment.
